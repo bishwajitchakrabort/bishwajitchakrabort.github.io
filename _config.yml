@@ -16,7 +16,7 @@ email: bishwajit[dot]chakrabort[at]ntu[dot]edu[dot]sg
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
@@ -26,12 +26,9 @@ github_username:  bishwajitchakrabort
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+linkedin_username: bishwajit-chakraborty-03581a24
 orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+googlescholar_username: 2OETfEYAAAAJ&hl
 
 # Additional icon links
 additional_links:
