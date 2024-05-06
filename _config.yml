@@ -82,7 +82,7 @@ content:
          # Description about the work on/with the project
   - title: Experience
     layout: list
-    content:
+    content: | #
       - layout: left
         title: Nanyang Technological University, Singapore
         sub_title: Research Fellow
@@ -92,7 +92,7 @@ content:
           #Short description of the company (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of role
-    content:
+         
       - layout: left  
         title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
         sub_title: Research Scientist
@@ -104,7 +104,7 @@ content:
          # Description of role  
   - title: Education
     layout: list
-    content:
+    content: | #
       - layout: top-right
         title: Indian Statistical Institute, Kolkata
         sub_title: PhD in Theoretical Computer Science
@@ -113,7 +113,7 @@ content:
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
-    content:
+   
       - layout: top-right
         title: Indian Statistical Institute, Kolkata
         sub_title: Masters in Mathematics
@@ -122,7 +122,7 @@ content:
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
-     content:
+         
       - layout: top-right  
         title: National Institute of Technology, Durgapur
         sub_title: B.Tech in Electrical Engineering
