@@ -105,7 +105,7 @@ content:
   
  - title: Education
     layout: list
-    content: | 
+    content:
       -layout: left
     
        title: Indian Statistical Institute, Kolkata
@@ -117,18 +117,18 @@ content:
           # Description of qualification
    
       
-        title: Indian Statistical Institute, Kolkata
-        sub_title: Masters in Mathematics
-        caption: 2013 - 2016
+        #title: Indian Statistical Institute, Kolkata
+        #sub_title: Masters in Mathematics
+        #caption: 2013 - 2016
         #quote: >
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
          
       
-        title: National Institute of Technology, Durgapur
-        sub_title: B.Tech in Electrical Engineering
-        caption: 2009 - 2013
+        #title: National Institute of Technology, Durgapur
+        #sub_title: B.Tech in Electrical Engineering
+        #caption: 2009 - 2013
         #quote: >
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
@@ -137,7 +137,7 @@ content:
     layout: text
     content:
     
-        -R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024
+        - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024
         #quote: >
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
