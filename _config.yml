@@ -68,18 +68,18 @@ content:
                       # other value (or no value) means no border will be displayed
         title: NRF-ANR project SELECT
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: "NRF2020-NRF-ANR072"
+        sub_title: "NRF2020-NRF-ANR072"
         #additional_links:
          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
          #   icon: fab fa-github
          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
          #   icon: fab fa-github
-         3   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+         #3   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        #  Short overview of the project (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -134,10 +134,10 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”
+        title: “The Committing Security of MACs with Applications to Generic Composition”
 
-        sub_title: in Advances in Cryptology 
-        caption: - CRYPTO 2024
+        sub_title:  R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, 
+        caption: in Advances in Cryptology- CRYPTO 2024
         #quote: >
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
