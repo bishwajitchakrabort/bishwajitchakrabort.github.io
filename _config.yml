@@ -75,20 +75,16 @@ content:
     content:
     
       - layout: right
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        - title: Nanyang Technological University, Singapore
+         title: Nanyang Technological University, Singapore
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           sub_title: Research Fellow,
-          caption : September 2023 - present 
+          caption: September 2023 - present 
           content: 
           
 
-        - title: Nanyang Technological University, Singapore
-        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          sub_title: Research Fellow,
-          caption : September 2023 - present   
-          content : 
+        
  
   - title: Publications
     layout: text
