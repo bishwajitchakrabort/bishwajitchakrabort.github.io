@@ -69,29 +69,24 @@ content:
         title: NRF-ANR project SELECT
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         sub_title: "NRF2020-NRF-ANR072"
-        #additional_links:
-         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-         #   icon: fab fa-github
-         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-         #   icon: fab fa-github
-         #3   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #quote: >
-        #  Short overview of the project (optional)
-        #description: | # this will include new lines to allow paragraphs
-         # Description about the work on/with the project
-  
+        
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: right
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Nanyang Technological University, Singapore
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        sub_title: Research Fellow,
+        caption : September 2023 - present 
    
  
   - title: Publications
     layout: text
     content: |
     
-        - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024
-        #quote: >
-         # Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-         # Description of qualification       
+        - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024.       
 
          
   - title: A Little More About Me
