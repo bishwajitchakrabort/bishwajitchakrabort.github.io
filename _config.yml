@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
     
 content:
   - title: Projects # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -84,7 +84,7 @@ content:
     layout: text
     content: | 
       - layout: left
-        title: Nanyang Technological University, Singapore
+        -title: Nanyang Technological University, Singapore
         sub_title: Research Fellow
         caption: September 2023 - present)
         #link: Link to company (optional)
@@ -93,8 +93,8 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description of role
          
-      - layout: left  
-        title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
+       
+        - title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
         sub_title: Research Scientist
         caption: July 2023 - September 2023)
         #link: Link to company (optional)
@@ -103,30 +103,30 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description of role  
   - title: Education
-    layout: text
+    layout: list
     content: | 
       - layout: top-right
-        title: Indian Statistical Institute, Kolkata
-        sub_title: PhD in Theoretical Computer Science
-        caption: 2016 - 2023
-        #quote: >
-         # Short institution or course description (optional)
-        #description: | # this will include new lines to allow paragraphs
-         # Description of qualification
+        - title: Indian Statistical Institute, Kolkata
+          sub_title: PhD in Theoretical Computer Science
+          caption: 2016 - 2023
+          #quote: >
+          # Short institution or course description (optional)
+         #description: | # this will include new lines to allow paragraphs
+          # Description of qualification
    
-      - layout: top-right
-        title: Indian Statistical Institute, Kolkata
-        sub_title: Masters in Mathematics
-        caption: 2013 - 2016
+      
+        - title: Indian Statistical Institute, Kolkata
+          sub_title: Masters in Mathematics
+          caption: 2013 - 2016
         #quote: >
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
          
-      - layout: top-right  
-        title: National Institute of Technology, Durgapur
-        sub_title: B.Tech in Electrical Engineering
-        caption: 2009 - 2013
+      
+       - title: National Institute of Technology, Durgapur
+         sub_title: B.Tech in Electrical Engineering
+         caption: 2009 - 2013
         #quote: >
          # Short institution or course description (optional)
         #description: | # this will include new lines to allow paragraphs
