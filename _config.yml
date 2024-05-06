@@ -72,7 +72,7 @@ content:
         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content: |
+    content:
     
       - layout: right
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -81,12 +81,14 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           sub_title: Research Fellow,
           caption : September 2023 - present 
+          content: 
+          
 
         - title: Nanyang Technological University, Singapore
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           sub_title: Research Fellow,
           caption : September 2023 - present   
-   
+          content : 
  
   - title: Publications
     layout: text
