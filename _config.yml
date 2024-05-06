@@ -92,8 +92,7 @@ content:
           #Short description of the company (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of role
-       - layout: right
-        title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
+      - title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
         sub_title: Research Scientist
         caption: July 2023 - September 2023)
         #link: Link to company (optional)
@@ -113,8 +112,8 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
 
-       - layout: top-right
-        title: Indian Statistical Institute, Kolkata
+     
+      - title: Indian Statistical Institute, Kolkata
         sub_title: Masters in Mathematics
         caption: 2013 - 2016
         #quote: >
@@ -122,8 +121,8 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description of qualification
 
-         - layout: top-right
-        title: National Institute of Technology, Durgapur
+        
+       - title: National Institute of Technology, Durgapur
         sub_title: B.Tech in Electrical Engineering
         caption: 2009 - 2013
         #quote: >
