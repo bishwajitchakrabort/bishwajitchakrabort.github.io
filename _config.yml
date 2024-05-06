@@ -51,7 +51,7 @@ about_profile_image: images/1695021269921.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
   I am a post-doctoral Research Fellow at [SyLLab](https://syllab-ntu.github.io/) under the mentorship of Professor [Thomas Peyrin](https://thomaspeyrin.github.io/), in the School of Physical and Mathematical Sciences ([SPMS](https://www.ntu.edu.sg/spms)), Nanyang Technological University, Singapore.
-  I did my PhD in "Design and Analysis of Lightweight Cryptographic modes" from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in) under the supervision of professor [Mridul nandi](https://www.isical.ac.in/~mridul/).
+  I did my PhD in "Design and Analysis of Lightweight Cryptographic modes" from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in) under the supervision of professor [Mridul Nandi](https://www.isical.ac.in/~mridul/).
   My research interest includes but is not restricted to:  
   
     - Designing Symmetric-Key Primitives
@@ -62,8 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      
+    content:|
       - title: NRF-ANR project SELECT
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
          sub_title: "NRF2020-NRF-ANR072"
