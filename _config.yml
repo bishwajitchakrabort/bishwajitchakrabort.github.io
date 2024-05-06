@@ -54,7 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   I did my PhD in "Design and Analysis of Lightweight Cryptographic modes" from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in) under the supervision of professor [Mridul nandi](https://www.isical.ac.in/~mridul/).
   My research interest includes but is not restricted to:  
   
-
     - Designing Symmetric-Key Primitives
     - Provable security Analysis of existing Symmetric-key protocols 
     - Theoretical Cryptanalysis. 
