@@ -63,8 +63,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+      # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: NRF-ANR project SELECT
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -73,8 +72,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
-         border: weak  # Value of `weak` will display a weak border below this item. # Any 
+      # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
          title: Nanyang Technological University, Singapore
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
