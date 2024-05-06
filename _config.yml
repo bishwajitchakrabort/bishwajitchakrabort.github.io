@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
     
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -81,8 +81,8 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description about the work on/with the project
   - title: Experience
-    layout: list
-    content: | #
+    layout: text
+    content: | 
       - layout: left
         title: Nanyang Technological University, Singapore
         sub_title: Research Fellow
@@ -103,8 +103,8 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description of role  
   - title: Education
-    layout: list
-    content: | #
+    layout: text
+    content: | 
       - layout: top-right
         title: Indian Statistical Institute, Kolkata
         sub_title: PhD in Theoretical Computer Science
