@@ -83,10 +83,10 @@ content:
   - title: Experience
     layout: list
     content: 
-      -layout: left
-       title: Nanyang Technological University, Singapore
-       sub_title: Research Fellow
-       caption: September 2023 - present
+      - layout: right
+        title: Nanyang Technological University, Singapore
+        sub_title: Research Fellow
+        caption: September 2023 - present
         #link: Link to company (optional)
         #quote: >
           #Short description of the company (optional)
@@ -106,11 +106,11 @@ content:
  - title: Education
     layout: list
     content:
-      -layout: left
+      - layout: left
     
-       title: Indian Statistical Institute, Kolkata
-       sub_title: PhD in Theoretical Computer Science
-       caption: 2016 - 2023
+        title: Indian Statistical Institute, Kolkata
+        sub_title: PhD in Theoretical Computer Science
+        caption: 2016 - 2023
           #quote: >
           # Short institution or course description (optional)
          #description: | # this will include new lines to allow paragraphs
@@ -135,7 +135,7 @@ content:
          # Description of qualification
   - title: Publications
     layout: text
-    content:
+    content: |
     
         - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024
         #quote: >
