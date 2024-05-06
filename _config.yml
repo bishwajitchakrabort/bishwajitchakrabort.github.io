@@ -73,7 +73,6 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    
       - layout: right
          border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -81,9 +80,6 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           sub_title: Research Fellow,
           caption: September 2023 - present 
-           
-          
-
         
  
   - title: Publications
