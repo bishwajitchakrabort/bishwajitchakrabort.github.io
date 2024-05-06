@@ -83,10 +83,11 @@ content:
   - title: Experience
     layout: list
     content: | 
+      -layout: left
     
         - title: Nanyang Technological University, Singapore
           sub_title: Research Fellow
-          caption: September 2023 - present)
+          caption: September 2023 - present
         #link: Link to company (optional)
         #quote: >
           #Short description of the company (optional)
@@ -102,6 +103,7 @@ content:
           #Short description of the company (optional)
         #description: | # this will include new lines to allow paragraphs
          # Description of role  
+  
   - title: Education
     layout: list
     content: | 
