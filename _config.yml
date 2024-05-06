@@ -81,12 +81,12 @@ content:
         #description: | # this will include new lines to allow paragraphs
          # Description about the work on/with the project
   - title: Experience
-    layout: text
+    layout: list
     content: | 
-      - layout: left
-        -title: Nanyang Technological University, Singapore
-        sub_title: Research Fellow
-        caption: September 2023 - present)
+    
+        - title: Nanyang Technological University, Singapore
+          sub_title: Research Fellow
+          caption: September 2023 - present)
         #link: Link to company (optional)
         #quote: >
           #Short description of the company (optional)
@@ -95,8 +95,8 @@ content:
          
        
         - title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
-        sub_title: Research Scientist
-        caption: July 2023 - September 2023)
+          sub_title: Research Scientist
+          caption: July 2023 - September 2023)
         #link: Link to company (optional)
         #quote: >
           #Short description of the company (optional)
@@ -105,7 +105,7 @@ content:
   - title: Education
     layout: list
     content: | 
-      - layout: top-right
+    
         - title: Indian Statistical Institute, Kolkata
           sub_title: PhD in Theoretical Computer Science
           caption: 2016 - 2023
