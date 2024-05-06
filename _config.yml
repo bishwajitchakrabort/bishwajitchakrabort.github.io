@@ -50,15 +50,16 @@ googlescholar_username: 2OETfEYAAAAJ&hl
 about_profile_image: images/1695021269921.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
+  I am a post-doctoral Research Fellow at [SyLLab](https://syllab-ntu.github.io/) under the mentorship of Professor [Thomas Peyrin](https://thomaspeyrin.github.io/), in the School of Physical and Mathematical Sciences ([SPMS](https://www.ntu.edu.sg/spms)), Nanyang Technological University, Singapore.
+  I did my PhD in "Design and Analysis of Lightweight Cryptographic modes" from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in) under the supervision of professor [Mridul nandi](https://www.isical.ac.in/~mridul/).
+  My research interest includes but is not restricted to:  
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+    - Designing Symmetric-Key Primitives
+    - Provable security Analysis of existing Symmetric-key protocols 
+    - Theoretical Cryptanalysis. 
+    - Algorithmic Cryptanalysis. 
+    
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -66,16 +67,16 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: NRF-ANR project SELECT
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: "NRF2020-NRF-ANR072"
+        #additional_links:
+         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+         #   icon: fab fa-github
+         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+         #   icon: fab fa-github
+         3   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -84,25 +85,66 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+        title: Nanyang Technological University, Singapore
+        sub_title: Research Fellow
+        caption: September 2023 - present)
+        #link: Link to company (optional)
+        #quote: >
+          #Short description of the company (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of role
+       - layout: right
+        title: [R. C. Bose Centre for Cryptology and Security](https://www.isical.ac.in/~rcbose/)
+        sub_title: Research Scientist
+        caption: July 2023 - September 2023)
+        #link: Link to company (optional)
+        #quote: >
+          #Short description of the company (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of role  
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        title: Indian Statistical Institute, Kolkata
+        sub_title: PhD in Theoretical Computer Science
+        caption: 2016 - 2023
+        #quote: >
+         # Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of qualification
+
+       - layout: top-right
+        title: Indian Statistical Institute, Kolkata
+        sub_title: Masters in Mathematics
+        caption: 2013 - 2016
+        #quote: >
+         # Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of qualification
+
+         - layout: top-right
+        title: National Institute of Technology, Durgapur
+        sub_title: B.Tech in Electrical Engineering
+        caption: 2009 - 2013
+        #quote: >
+         # Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of qualification
+  - title: Publications
+    layout: list
+    content:
+      - layout: top-left
+        title: R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”
+
+        sub_title: in Advances in Cryptology 
+        caption: - CRYPTO 2024
+        #quote: >
+         # Short institution or course description (optional)
+        #description: | # this will include new lines to allow paragraphs
+         # Description of qualification       
+
+         
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
