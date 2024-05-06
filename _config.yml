@@ -63,13 +63,12 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-       - title: NRF-ANR project SELECT
+      
+      - title: NRF-ANR project SELECT
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
          sub_title: "NRF2020-NRF-ANR072"
 
-   - title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       # Value of `weak` will display a weak border below this item. # Any 
