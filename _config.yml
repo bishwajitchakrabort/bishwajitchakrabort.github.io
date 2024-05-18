@@ -63,27 +63,23 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - title: NRF-ANR project SELECT
+      - title: NRF-ANR project SELECT1
         layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         
-        content: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-      - title: NRF-ANR project SELECT
-        layout: left
-        content: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project  
+     
+      - title: NRF-ANR project SELECT2
+        layout: left  
           
   - title: Experience
     layout: list
     content:
       - layout: right
         title: Research Fellow
-          sub_title: SPMS, NTU, Singapore
+        sub_title: SPMS, NTU, Singapore
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          caption: September, 2023 - Present
-          content:   
+        caption: September, 2023 - Present   
   - title: Education
     layout: list
     content:
