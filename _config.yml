@@ -62,23 +62,24 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - title: NRF-ANR project SELECT
+    content: |
+      title: NRF-ANR project SELECT
+      layout: Left
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        layout: text
-        content:
-            NRF2020-NRF-ANR072
+       content:
+            "NRF2020-NRF-ANR072"
     - title: Experience # Title for the section
       layout: list # Type of content section (list/text)
-      content:
-        - title: Research Fellow
+      content: |
+          title: Research Fellow
           subtitle: SPMS, NTU, Singapore
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-           content: September, 2023 - Present 
-        - title: Research Scientist
+          content: September, 2023 - Present 
+          
+          title: Research Scientist
           subtitle: R. C. Bose Centre for Cryptology and Security 
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-           content: June, 2023 - September, 2023    
+          content: June, 2023 - September, 2023    
    
   - title: Publications
     layout: text
