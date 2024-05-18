@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content: |#
+    content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -77,10 +77,11 @@ content:
     layout: list
     content:
       - layout: right
-        title: Research Fellow
-        sub_title: SPMS, NTU, Singapore
+        - title: Research Fellow
+          sub_title: SPMS, NTU, Singapore
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        caption: September, 2023 - Present 
+          caption: September, 2023 - Present
+          content: 
           
         title: Research Scientist
         sub_title: R. C. Bose Centre for Cryptology and Security 
