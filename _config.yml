@@ -109,6 +109,19 @@ content:
         sub_title: Bachelor in Electrical Engineering (B.Tech)
         caption: August, 2009 - May, 2013    
           
+  - title: Cryptographic Designs
+    layout: list
+    content:
+      - title: [mixFeed](https://www.isical.ac.in/~lightweight/Mixfeed/)
+        layout: left
+        sub_title: B. Chakraborty, M. Nandi
+        caption: NIST LwC Competition, 2nd Round.
+
+      - title: [ORANGE](https://www.isical.ac.in/~lightweight/Orange/)
+        layout: left
+        sub_title: B. Chakraborty, M. Nandi
+        caption: NIST LwC Competition, 2nd Round.  
+
          
   - title: Publications
     layout: text
@@ -116,7 +129,21 @@ content:
     
         - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024.       
 
-         
+        - B. Chakraborty, C. Dhar, M. Nandi, “Tight Multi-user Security of Ascon and Its Large Key Extension” in Information Security and Privacy - ACISP 2024 
+
+        - B. Chakraborty, N. Datta, M. Nandi, “Designing Full-Rate Sponge based AEAD modes” in Advances in Cryptology - INDOCRYPT 2023
+  
+        - B. Chakraborty, C. Dhar, M. Nandi, “Exact Security Analysis of ASCON” in Advances in Cryptology - ASIACRYPT 2023
+
+        - B. Chakraborty, M. Nandi, "The mF Mode of Authenticated Encryption with Associated Data" in Journal of  Mathematical Cryptology - JMC 2022
+
+        - B. Chakraborty, S. Chattopadhyay, A. Jha, M. Nandi,  "On length independent security bounds for the PMAC family" in IACR Transactions on Symmetric Cryptology ToSC 2021-2 / Fast Software Encryption - FSE 2022
+        
+        - B. Chakraborty, A. Jha, M. Nandi, "On the Security of Sponge-type Authenticated Encryption Modes" in IACR Transactions on Symmetric Cryptology ToSC 2020-2 / Fast Software Encryption - FSE 2021
+   
+  
+  
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
