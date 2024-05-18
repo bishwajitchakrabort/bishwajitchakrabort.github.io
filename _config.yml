@@ -98,16 +98,16 @@ content:
         caption: July, 2016 - April, 2023
 
         
-     - title: Indian Statistical Institute, Kolkata
-       layout: left
-       sub_title: Masters in Mathematics (M.MATH)
-       caption: July, 2013 - May, 2016  
+      - title: Indian Statistical Institute, Kolkata
+        layout: left
+        sub_title: Masters in Mathematics (M.MATH)
+        caption: July, 2013 - May, 2016  
 
        
-     - title: National Institute of Technology, Durgapur
-       layout: left
-       sub_title: Bachelor in Electrical Engineering (B.Tech)
-       caption: August, 2009 - May, 2013    
+      - title: National Institute of Technology, Durgapur
+        layout: left
+        sub_title: Bachelor in Electrical Engineering (B.Tech)
+        caption: August, 2009 - May, 2013    
           
          
   - title: Publications
