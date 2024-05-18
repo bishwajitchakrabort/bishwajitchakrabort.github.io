@@ -76,7 +76,7 @@ content:
     layout: list
     content:
       - title: Research Fellow
-        sub_title: Research Fellow, School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
+        sub_title: School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
         layout: right
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: September, 2023 - Present 
@@ -113,14 +113,14 @@ content:
     layout: list
     content:
       - title: mixFeed
-        layout: right
+        layout: top-left
         sub_title: B. Chakraborty, M. Nandi
         caption: NIST LwC Competition, 2nd Round.
         link: https://www.isical.ac.in/~lightweight/Mixfeed/
         link_text: Website
 
       - title: ORANGE
-        layout: right
+        layout: top-right
         sub_title: B. Chakraborty, M. Nandi
         caption: NIST LwC Competition, 2nd Round.  
         link: https://www.isical.ac.in/~lightweight/Orange/
