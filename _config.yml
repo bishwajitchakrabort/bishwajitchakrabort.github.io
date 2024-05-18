@@ -150,9 +150,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork* 
+      When I am not doing research, I like to Identify myself as a social-rights worker. I have extensively worked on advocating social rights in different parts of India. I also play amateur football as a goalkeeper. 
+     and have represented the football teams of all the institutions I have been affiliated with until Now. I am a Liverpool Football Club fan and have been an official international member of the club since 2017. 
 
 # Footer
 footer_show_references: true
