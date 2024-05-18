@@ -80,11 +80,15 @@ content:
         layout: right
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: September, 2023 - Present 
+        
       - title: Research Scientist
         sub_title: R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
         layout: right
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        caption: June, 2023 - September, 2023   
+        caption: June, 2023 - September, 2023
+
+
+        
   - title: Education
     layout: list
     content:
@@ -92,10 +96,14 @@ content:
         layout: left
         sub_title: Ph.D. in Theoretical Computer Science (Cryptography)
         caption: July, 2016 - April, 2023
+
+        
      - title: Indian Statistical Institute, Kolkata
        layout: left
        sub_title: Masters in Mathematics (M.MATH)
        caption: July, 2013 - May, 2016  
+
+       
      - title: National Institute of Technology, Durgapur
        layout: left
        sub_title: Bachelor in Electrical Engineering (B.Tech)
