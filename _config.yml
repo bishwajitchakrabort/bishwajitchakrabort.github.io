@@ -77,15 +77,15 @@ content:
     layout: list
     content:
       - layout: right
-         title: Research Fellow
-         subtitle: SPMS, NTU, Singapore
+        title: Research Fellow
+        sub_title: SPMS, NTU, Singapore
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-         caption: September, 2023 - Present 
+        caption: September, 2023 - Present 
           
-          title: Research Scientist
-          subtitle: R. C. Bose Centre for Cryptology and Security 
+        title: Research Scientist
+        sub_title: R. C. Bose Centre for Cryptology and Security 
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          caption: June, 2023 - September, 2023    
+        caption: June, 2023 - September, 2023    
   - title: Education
     layout: list
     content:
