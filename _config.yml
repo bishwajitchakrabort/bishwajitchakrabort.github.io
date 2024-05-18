@@ -63,14 +63,16 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - title: NRF-ANR project SELECT
+        layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: NRF-ANR project SELECT
-        description: | # this will include new lines to allow paragraphs
+        
+        content: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-        title: NRF-ANR project SELECT
-        description: | # this will include new lines to allow paragraphs
+      - title: NRF-ANR project SELECT
+        layout: left
+        content: | # this will include new lines to allow paragraphs
           Description about the work on/with the project  
           
   - title: Experience
