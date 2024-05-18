@@ -112,16 +112,19 @@ content:
   - title: Cryptographic Designs
     layout: list
     content:
-      - title: [mixFeed](https://www.isical.ac.in/~lightweight/Mixfeed/)
-        layout: left
+      - title: mixFeed
+        layout: right
         sub_title: B. Chakraborty, M. Nandi
         caption: NIST LwC Competition, 2nd Round.
+        link: https://www.isical.ac.in/~lightweight/Mixfeed/
+        link_text: Website
 
-      - title: [ORANGE](https://www.isical.ac.in/~lightweight/Orange/)
-        layout: left
+      - title: ORANGE
+        layout: right
         sub_title: B. Chakraborty, M. Nandi
         caption: NIST LwC Competition, 2nd Round.  
-
+        link: https://www.isical.ac.in/~lightweight/Orange/
+        link_text: Website
          
   - title: Publications
     layout: text
