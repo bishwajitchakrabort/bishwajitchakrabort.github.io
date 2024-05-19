@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Bishwajit Chakraborty
 title: Researcher in Cryptography
-email: bishwajit[dot]chakrabort[at]ntu[dot]edu[dot]sg
+email: bishwajit.chakrabort[at]ntu.edu.sg
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -60,33 +60,24 @@ about_content: | # this will include new lines to allow paragraphs
     - Algorithmic Cryptanalysis. 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - title: NRF-ANR project SELECT
-        sub_title: "NRF-2020-NRF-ANR072"
-        layout: left
-        # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        
-     
-       
           
   - title: Experience
     layout: list
     content:
       - title: Research Fellow
-        sub_title: School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
+         
         layout: right
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: September, 2023 - Present 
+        description: |
+        I am currently working as a post-doctoral research fellow in the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
         
       - title: Research Scientist
-        sub_title: R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
         layout: right
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: June, 2023 - September, 2023
-
+        description: |
+        I worked as a Research Scientist in  R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
 
         
   - title: Education
@@ -94,21 +85,23 @@ content:
     content:
       - title: Indian Statistical Institute, Kolkata
         layout: left
-        sub_title: Ph.D. in Theoretical Computer Science (Cryptography)
         caption: July, 2016 - April, 2023
-
+        description: |
+        Here I received my Ph.D. in Theoretical Computer Science (Cryptography)
         
       - title: Indian Statistical Institute, Kolkata
         layout: left
-        sub_title: Masters in Mathematics (M.MATH)
-        caption: July, 2013 - May, 2016  
+        caption: July, 2013 - May, 2016 
+        description: |
+        Here I received my Master's degree in Mathematics (M.MATH)
 
        
       - title: National Institute of Technology, Durgapur
         layout: left
-        sub_title: Bachelor in Electrical Engineering (B.Tech)
-        caption: August, 2009 - May, 2013    
-          
+        sub_title: 
+        caption: August, 2009 - May, 2013
+        description: |
+        Here I received my Bachelor's degree in Electrical Engineering (B.Tech) 
   - title: Cryptographic Designs
     layout: list
     content:
@@ -132,17 +125,17 @@ content:
     
         - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024.       
 
-        - B. Chakraborty, C. Dhar, M. Nandi, “Tight Multi-user Security of Ascon and Its Large Key Extension” in Information Security and Privacy - ACISP 2024 
+        - B. Chakraborty, C. Dhar, M. Nandi, “[Tight Multi-user Security of Ascon and Its Large Key Extension](https://eprint.iacr.org/2024/579)" in Information Security and Privacy - ACISP 2024 
 
-        - B. Chakraborty, N. Datta, M. Nandi, “Designing Full-Rate Sponge based AEAD modes” in Advances in Cryptology - INDOCRYPT 2023
+        - B. Chakraborty, N. Datta, M. Nandi, “[Designing Full-Rate Sponge based AEAD modes](https://eprint.iacr.org/2023/1673)” in Advances in Cryptology - INDOCRYPT 2023
   
-        - B. Chakraborty, C. Dhar, M. Nandi, “Exact Security Analysis of ASCON” in Advances in Cryptology - ASIACRYPT 2023
+        - B. Chakraborty, C. Dhar, M. Nandi, “[Exact Security Analysis of ASCON](https://eprint.iacr.org/2023/775)” in Advances in Cryptology - ASIACRYPT 2023
 
-        - B. Chakraborty, M. Nandi, "The mF Mode of Authenticated Encryption with Associated Data" in Journal of  Mathematical Cryptology - JMC 2022
+        - B. Chakraborty, M. Nandi, "[The mF Mode of Authenticated Encryption with Associated Data](https://doi.org/10.1515/jmc-2020-0054)" in Journal of  Mathematical Cryptology - JMC 2022
 
-        - B. Chakraborty, S. Chattopadhyay, A. Jha, M. Nandi,  "On length independent security bounds for the PMAC family" in IACR Transactions on Symmetric Cryptology ToSC 2021-2 / Fast Software Encryption - FSE 2022
+        - B. Chakraborty, S. Chattopadhyay, A. Jha, M. Nandi,  "[On length independent security bounds for the PMAC family](https://eprint.iacr.org/2020/656)" in IACR Transactions on Symmetric Cryptology ToSC 2021-2 / Fast Software Encryption - FSE 2022
         
-        - B. Chakraborty, A. Jha, M. Nandi, "On the Security of Sponge-type Authenticated Encryption Modes" in IACR Transactions on Symmetric Cryptology ToSC 2020-2 / Fast Software Encryption - FSE 2021
+        - B. Chakraborty, A. Jha, M. Nandi, "[On the Security of Sponge-type Authenticated Encryption Modes](https://eprint.iacr.org/2019/1475)" in IACR Transactions on Symmetric Cryptology ToSC 2020-2 / Fast Software Encryption - FSE 2021
    
   
   
