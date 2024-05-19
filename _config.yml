@@ -70,14 +70,14 @@ content:
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: September, 2023 - Present 
         description: |
-        I am currently working as a post-doctoral research fellow in the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
+         I am currently working as a post-doctoral research fellow in the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
         
       - title: Research Scientist
         layout: right
           #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: June, 2023 - September, 2023
         description: |
-        I worked as a Research Scientist in  R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
+         I worked as a Research Scientist in  R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
 
         
   - title: Education
@@ -87,13 +87,13 @@ content:
         layout: left
         caption: July, 2016 - April, 2023
         description: |
-        Here I received my Ph.D. in Theoretical Computer Science (Cryptography)
+         Here I received my Ph.D. in Theoretical Computer Science (Cryptography)
         
       - title: Indian Statistical Institute, Kolkata
         layout: left
         caption: July, 2013 - May, 2016 
         description: |
-        Here I received my Master's degree in Mathematics (M.MATH)
+         Here I received my Master's degree in Mathematics (M.MATH)
 
        
       - title: National Institute of Technology, Durgapur
@@ -101,7 +101,7 @@ content:
         sub_title: 
         caption: August, 2009 - May, 2013
         description: |
-        Here I received my Bachelor's degree in Electrical Engineering (B.Tech) 
+         Here I received my Bachelor's degree in Electrical Engineering (B.Tech) 
   - title: Cryptographic Designs
     layout: list
     content:
