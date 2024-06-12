@@ -123,7 +123,7 @@ content:
     layout: text
     content: |
     
-        - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “The Committing Security of MACs with Applications to Generic Composition”, in Advances in Cryptology- CRYPTO 2024.       
+        - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “[The Committing Security of MACs with Applications to Generic Composition](https://eprint.iacr.org/2024/928)”, in Advances in Cryptology- CRYPTO 2024.       
 
         - B. Chakraborty, C. Dhar, M. Nandi, “[Tight Multi-user Security of Ascon and Its Large Key Extension](https://eprint.iacr.org/2024/579)" in Information Security and Privacy - ACISP 2024 
 
