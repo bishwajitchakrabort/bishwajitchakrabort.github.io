@@ -1,5 +1,5 @@
 # Site
-repository:  (eg. sproogen/modern-resume-theme)
+repository: (eg. sproogen/modern-resume-theme)
 #favicon: images/1695021269921.jpeg
 
 # Content configuration version
@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  bishwajitchakrabort
+github_username: bishwajitchakrabort
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -33,8 +33,8 @@ googlescholar_username: 2OETfEYAAAAJ&hl
 # Additional icon links
 #additional_links:
 #- title: Link name
- # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  #url: Link url (eg. https://google.com)
+# icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+# url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,37 +49,36 @@ googlescholar_username: 2OETfEYAAAAJ&hl
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/1695021269921.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  
+
   I am a post-doctoral Research Fellow at [SyLLab](https://syllab-ntu.github.io/syllab/) under the mentorship of Professor [Thomas Peyrin](https://thomaspeyrin.github.io/web/), in the School of Physical and Mathematical Sciences ([SPMS](https://www.ntu.edu.sg/spms)), Nanyang Technological University, Singapore.
   I did my PhD in "Design and Analysis of Lightweight Cryptographic modes" from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in) under the supervision of professor [Mridul Nandi](https://www.isical.ac.in/~mridul/).
-  My research interest includes but is not restricted to:  
-  
+  My research interest includes but is not restricted to:
+
     - Designing Symmetric-Key Primitives
-    - Provable security Analysis of existing Symmetric-key protocols 
-    - Theoretical Cryptanalysis. 
-    - Algorithmic Cryptanalysis. 
+    - Provable security Analysis of existing Symmetric-key protocols
+    - Theoretical Cryptanalysis.
+    - Algorithmic Cryptanalysis.
 
 content:
-          
+
   - title: Experience
     layout: list
     content:
       - title: Research Fellow
-         
+
         layout: right
-          #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        caption: September, 2023 - Present 
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        caption: September, 2023 - Present
         description: |
-         I am currently working as a post-doctoral research fellow in the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
-        
+          I am currently working as a post-doctoral research fellow in the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University, Singapore
+
       - title: Research Scientist
         layout: right
-          #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: July, 2023 - September, 2023
         description: |
-         I worked as a Research Scientist at  R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
+          I worked as a Research Scientist at R. C. Bose Centre for Cryptology and Security, Indian Statistical Institute, Kolkata
 
-        
   - title: Education
     layout: list
     content:
@@ -87,21 +86,21 @@ content:
         layout: left
         caption: July, 2016 - April, 2023
         description: |
-         Here I received my Ph.D. in Theoretical Computer Science (Cryptography)
-        
+          Here I received my Ph.D. in Theoretical Computer Science (Cryptography)
+
       - title: Indian Statistical Institute, Kolkata
         layout: left
-        caption: July, 2013 - May, 2016 
+        caption: July, 2013 - May, 2016
         description: |
-         Here I received my Master's degree in Mathematics (M.MATH)
+          Here I received my Master's degree in Mathematics (M.MATH)
 
-       
       - title: National Institute of Technology, Durgapur
         layout: left
-        sub_title: 
+        sub_title:
         caption: August, 2009 - May, 2013
         description: |
-         Here I received my Bachelor's degree in Electrical Engineering (B.Tech) 
+          Here I received my Bachelor's degree in Electrical Engineering (B.Tech)
+
   - title: Cryptographic Designs
     layout: list
     content:
@@ -115,38 +114,35 @@ content:
       - title: ORANGE
         layout: top-right
         sub_title: B. Chakraborty, M. Nandi
-        caption: NIST LwC Competition, 2nd Round.  
+        caption: NIST LwC Competition, 2nd Round.
         link: https://www.isical.ac.in/~lightweight/Orange/
         link_text: Website
-         
+
   - title: Publications
     layout: text
     content: |
-    
-        - B. Chakraborty, A. Saha, "[Tweakable Permutation-based Luby-Rackoff Constructions](https://eprint.iacr.org/2025/914)", in Advances in Cryptology- CRYPTO 2025.
-        
-        - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “[The Committing Security of MACs with Applications to Generic Composition](https://eprint.iacr.org/2024/928)”, in Advances in Cryptology- CRYPTO 2024.       
 
-        - B. Chakraborty, C. Dhar, M. Nandi, “[Tight Multi-user Security of Ascon and Its Large Key Extension](https://eprint.iacr.org/2024/579)", in Information Security and Privacy - ACISP 2024 
+      - B. Chakraborty, A. Saha, "[Tweakable Permutation-based Luby-Rackoff Constructions](https://eprint.iacr.org/2025/914)", in Advances in Cryptology- CRYPTO 2025.
 
-        - B. Chakraborty, N. Datta, M. Nandi, “[Designing Full-Rate Sponge based AEAD modes](https://eprint.iacr.org/2023/1673)”, in Advances in Cryptology - INDOCRYPT 2023
-  
-        - B. Chakraborty, C. Dhar, M. Nandi, “[Exact Security Analysis of ASCON](https://eprint.iacr.org/2023/775)”, in Advances in Cryptology - ASIACRYPT 2023
+      - R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, “[The Committing Security of MACs with Applications to Generic Composition](https://eprint.iacr.org/2024/928)”, in Advances in Cryptology- CRYPTO 2024.
 
-        - B. Chakraborty, M. Nandi, "[The mF Mode of Authenticated Encryption with Associated Data](https://doi.org/10.1515/jmc-2020-0054)", in Journal of  Mathematical Cryptology - JMC 2022
+      - B. Chakraborty, C. Dhar, M. Nandi, “[Tight Multi-user Security of Ascon and Its Large Key Extension](https://eprint.iacr.org/2024/579)", in Information Security and Privacy - ACISP 2024
 
-        - B. Chakraborty, S. Chattopadhyay, A. Jha, M. Nandi,  "[On length independent security bounds for the PMAC family](https://eprint.iacr.org/2020/656)", in IACR Transactions on Symmetric Cryptology ToSC 2021-2 / Fast Software Encryption - FSE 2022
-        
-        - B. Chakraborty, A. Jha, M. Nandi, "[On the Security of Sponge-type Authenticated Encryption Modes](https://eprint.iacr.org/2019/1475)", in IACR Transactions on Symmetric Cryptology ToSC 2020-2 / Fast Software Encryption - FSE 2021
-   
-  
-  
-  
+      - B. Chakraborty, N. Datta, M. Nandi, “[Designing Full-Rate Sponge based AEAD modes](https://eprint.iacr.org/2023/1673)”, in Advances in Cryptology - INDOCRYPT 2023
+
+      - B. Chakraborty, C. Dhar, M. Nandi, “[Exact Security Analysis of ASCON](https://eprint.iacr.org/2023/775)”, in Advances in Cryptology - ASIACRYPT 2023
+
+      - B. Chakraborty, M. Nandi, "[The mF Mode of Authenticated Encryption with Associated Data](https://doi.org/10.1515/jmc-2020-0054)", in Journal of Mathematical Cryptology - JMC 2022
+
+      - B. Chakraborty, S. Chattopadhyay, A. Jha, M. Nandi, "[On length independent security bounds for the PMAC family](https://eprint.iacr.org/2020/656)", in IACR Transactions on Symmetric Cryptology ToSC 2021-2 / Fast Software Encryption - FSE 2022
+
+      - B. Chakraborty, A. Jha, M. Nandi, "[On the Security of Sponge-type Authenticated Encryption Modes](https://eprint.iacr.org/2019/1475)", in IACR Transactions on Symmetric Cryptology ToSC 2020-2 / Fast Software Encryption - FSE 2021
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-     
-          When I am not doing research, I like to Identify myself as a social-rights worker. I have extensively worked on advocating social rights in different parts of India. I am the treasurer of  [Solidarity Schools Trust](https://solidarityschools.org) which promotes education and right-to-education in the Greater Kolkata Area.  I also play amateur football as a goalkeeper and have represented the football teams of all the institutions I have been affiliated with until Now. I am a Liverpool Football Club fan and have been an official international member of the club since 2017. 
+
+      When I am not doing research, I like to Identify myself as a social-rights worker. I have extensively worked on advocating social rights in different parts of India. I am the treasurer of [Solidarity Schools Trust](https://solidarityschools.org) which promotes education and right-to-education in the Greater Kolkata Area. I also play amateur football as a goalkeeper and have represented the football teams of all the institutions I have been affiliated with until Now. I am a Liverpool Football Club fan and have been an official international member of the club since 2017.
 
 # Footer
 footer_show_references: false
@@ -163,7 +159,7 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-exclude : [
+exclude: [
   "Gemfile",
   "Gemfile.lock",
   "node_modules",
@@ -174,4 +170,4 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-  ]
+]
