@@ -124,6 +124,20 @@ content:
         link: https://www.isical.ac.in/~lightweight/Orange/
         link_text: Website
 
+      - title: Vistrutah
+        layout: top-left
+        sub_title: R. Avanzi, A. Chakraborti, B. Chakraborty, E. List
+        caption: Large block cipher family.
+        link: https://eprint.iacr.org/2025/976
+        link_text: Paper
+        
+      - title: Samvadini
+        layout: top-right
+        sub_title: R. Avanzi, A. Chakraborti, B. Chakraborty, E. List
+        caption: Accordion Mode.
+        link: https://csrc.nist.gov/files/pubs/sp/800/197/iprd/docs/3_samvadini.pdf
+        link_text: Paper 
+
   - title: Publications
     layout: text
     content: |
