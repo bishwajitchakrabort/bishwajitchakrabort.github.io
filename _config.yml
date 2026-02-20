@@ -143,7 +143,8 @@ content:
     content: |
 
 
-      -R. Bhaumik, B. Chakraborty, C. Dhar, “[Breaking and Fixing MacaKey](https://eprint.iacr.org/2025/2038)”, in IACR Transactions on Symmetric Cryptology ToSC 2026-1 / Fast Software Encryption - FSE 2026.
+      
+      - R. Bhaumik, B. Chakraborty, C. Dhar, “[Breaking and Fixing MacaKey](https://eprint.iacr.org/2025/2038)”, in IACR Transactions on Symmetric Cryptology ToSC 2026-1 / Fast Software Encryption - FSE 2026.
       
       - R. Avanzi, A Chakraborti, B. Chakraborty, E. List, "[The Large Block Cipher Family Vistrutah](https://eprint.iacr.org/2025/976)", in IACR Transactions on Symmetric Cryptology ToSC 2025-3 / Fast Software Encryption - FSE 2026.
 
